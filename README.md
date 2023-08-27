@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm alireza</h1>
 <h3 align="center">I am an undergraduate student. I do mobile programming using Flutter</h3>
 
-<br>🌱 I’m currently learning Flutter<br><br>
+- 🌱 I’m currently learning **flutter**
 - 📫 How to reach me **alirezaariye@gmail.com**
 
 
